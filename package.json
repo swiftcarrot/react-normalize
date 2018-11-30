@@ -1,6 +1,6 @@
 {
   "name": "react-normalize",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -20,6 +20,12 @@
     "react-dom": "^16.6.3"
   },
   "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/plugin-proposal-export-default-from": "^7.0.0",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-react": "^7.0.0",
+    "babel-plugin-emotion": "^10.0.0",
+    "babel-plugin-polished": "^1.1.0",
     "polished": "^2.3.0"
   }
 }
