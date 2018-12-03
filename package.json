@@ -1,6 +1,6 @@
 {
   "name": "react-normalize",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -25,7 +25,22 @@
     "@babel/preset-env": "^7.1.6",
     "@babel/preset-react": "^7.0.0",
     "babel-plugin-emotion": "^10.0.0",
-    "babel-plugin-polished": "^1.1.0",
-    "polished": "^2.3.0"
-  }
+    "babel-plugin-preval": "^3.0.1",
+    "polished": "^2.3.1",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "rollup": "^0.67.4",
+    "rollup-plugin-babel": "^4.0.3",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-node-resolve": "^3.4.0"
+  },
+  "description": "normalize.css as react component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzuo/react-normalize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wangzuo/react-normalize/issues"
+  },
+  "homepage": "https://github.com/wangzuo/react-normalize#readme"
 }
