@@ -1,6 +1,6 @@
 {
   "name": "react-normalize",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -13,7 +13,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.0"
+    "@emotion/core": "^10.0.1"
   },
   "peerDependencies": {
     "react": "^16.6.3",
