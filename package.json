@@ -1,6 +1,6 @@
 {
   "name": "react-normalize",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -13,7 +13,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.2"
+    "@emotion/core": "^10.0.4"
   },
   "peerDependencies": {
     "react": "^16.6.3",
@@ -24,7 +24,7 @@
     "@babel/plugin-proposal-export-default-from": "^7.2.0",
     "@babel/preset-env": "^7.2.0",
     "@babel/preset-react": "^7.0.0",
-    "babel-plugin-emotion": "^10.0.2",
+    "babel-plugin-emotion": "^10.0.4",
     "babel-plugin-preval": "^3.0.1",
     "polished": "^2.3.1",
     "react": "^16.6.3",
@@ -32,7 +32,7 @@
     "rollup": "^0.67.4",
     "rollup-plugin-babel": "^4.0.3",
     "rollup-plugin-commonjs": "^9.2.0",
-    "rollup-plugin-node-resolve": "^3.4.0"
+    "rollup-plugin-node-resolve": "^4.0.0"
   },
   "description": "normalize.css as react component",
   "repository": {
