@@ -1,7 +1,7 @@
 {
   "name": "react-normalize",
   "description": "normalize.css as react component",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -10,7 +10,7 @@
   "author": "Wang Zuo <wzuoadjusted@gmail.com> (https://wangzuo.me)",
   "license": "MIT",
   "scripts": {
-    "build": "rollup -c",
+    "build": "NODE_ENV=production rollup -c",
     "prepublishOnly": "npm run build",
     "test": "jest --coverage"
   },
@@ -25,7 +25,7 @@
     "@babel/core": "^7.2.2",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^24.0.0",
-    "babel-preset-zkit": "^0.1.2",
+    "babel-preset-zkit": "^0.1.3",
     "jest": "^24.0.0",
     "polished": "^2.3.3",
     "react": "^16.7.0",
