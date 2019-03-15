@@ -1,7 +1,7 @@
 {
   "name": "react-normalize",
   "description": "normalize.css as react component",
-  "version": "0.3.5",
+  "version": "0.3.7",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -22,9 +22,9 @@
     "react-dom": "^16.6.3"
   },
   "devDependencies": {
-    "babel-jest": "^24.4.0",
-    "babel-preset-zkit": "^0.2.4",
-    "jest": "^24.4.0",
+    "babel-jest": "^24.5.0",
+    "babel-preset-zkit": "^0.3.1",
+    "jest": "^24.5.0",
     "polished": "^3.0.3",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
