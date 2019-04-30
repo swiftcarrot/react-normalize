@@ -5,9 +5,7 @@
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "sideEffects": false,
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "author": "Wang Zuo <wzuoadjusted@gmail.com> (https://wangzuo.me)",
   "license": "MIT",
   "scripts": {
@@ -42,5 +40,5 @@
   "bugs": {
     "url": "https://github.com/wangzuo/react-normalize/issues"
   },
-  "homepage": "https://github.com/wangzuo/react-normalize#readme"
+  "homepage": "https://swiftcarrot.dev/react-normalize"
 }

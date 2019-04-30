@@ -8,6 +8,8 @@
 
 normalize.css as react component
 
+[https://swiftcarrot.dev/react-normalize](https://swiftcarrot.dev/react-normalize)
+
 ### Installation
 
 ```sh
