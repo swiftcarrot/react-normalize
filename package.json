@@ -1,11 +1,13 @@
 {
   "name": "react-normalize",
   "description": "normalize.css as react component",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "sideEffects": false,
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "author": "Wang Zuo <wzuoadjusted@gmail.com> (https://wangzuo.me)",
   "license": "MIT",
   "scripts": {
