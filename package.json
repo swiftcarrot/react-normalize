@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "babel-jest": "^24.5.0",
-    "babel-preset-zkit": "^0.4.0",
+    "babel-preset-swiftcarrot": "^0.5.0",
     "jest": "^24.5.0",
     "polished": "^3.2.0",
     "react": "^16.8.4",
@@ -37,10 +37,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangzuo/react-normalize.git"
+    "url": "git+https://github.com/swiftcarrot/react-normalize.git"
   },
   "bugs": {
-    "url": "https://github.com/wangzuo/react-normalize/issues"
+    "url": "https://github.com/swiftcarrot/react-normalize/issues"
   },
   "homepage": "https://swiftcarrot.dev/react-normalize"
 }
