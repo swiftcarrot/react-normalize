@@ -2,9 +2,9 @@
 
 [![npm](https://img.shields.io/npm/v/react-normalize.svg)](https://www.npmjs.com/package/react-normalize)
 [![npm](https://img.shields.io/npm/dm/react-normalize.svg)](https://www.npmjs.com/package/react-normalize)
-[![Build Status](https://travis-ci.org/wangzuo/react-normalize.svg?branch=master)](https://travis-ci.org/wangzuo/react-normalize)
-[![codecov](https://codecov.io/gh/wangzuo/react-normalize/branch/master/graph/badge.svg)](https://codecov.io/gh/wangzuo/react-normalize)
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier) [![Greenkeeper badge](https://badges.greenkeeper.io/wangzuo/react-normalize.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/swiftcarrot/react-normalize.svg?branch=master)](https://travis-ci.org/swiftcarrot/react-normalize)
+[![codecov](https://codecov.io/gh/swiftcarrot/react-normalize/branch/master/graph/badge.svg)](https://codecov.io/gh/swiftcarrot/react-normalize)
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 normalize.css as react component
 
