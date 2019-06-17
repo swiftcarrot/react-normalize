@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "babel-jest": "^24.5.0",
-    "babel-preset-swiftcarrot": "^0.5.0",
+    "babel-preset-swiftcarrot": "^0.6.2",
     "jest": "^24.5.0",
     "polished": "^3.2.0",
     "react": "^16.8.4",
