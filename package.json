@@ -16,24 +16,24 @@
     "test": "jest --coverage"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.9"
+    "@emotion/core": "^10.0.15"
   },
   "peerDependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
   },
   "devDependencies": {
-    "babel-jest": "^24.5.0",
-    "babel-preset-swiftcarrot": "^0.5.0",
-    "jest": "^24.5.0",
-    "polished": "^3.2.0",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
-    "react-test-renderer": "^16.8.4",
-    "rollup": "^1.6.0",
-    "rollup-plugin-babel": "^4.3.2",
-    "rollup-plugin-commonjs": "^9.2.1",
-    "rollup-plugin-node-resolve": "^4.0.1"
+    "babel-jest": "^24.8.0",
+    "babel-preset-swiftcarrot": "^1.0.0",
+    "jest": "^24.8.0",
+    "polished": "^3.4.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-test-renderer": "^16.8.6",
+    "rollup": "^1.19.2",
+    "rollup-plugin-babel": "^4.3.3",
+    "rollup-plugin-commonjs": "^10.0.2",
+    "rollup-plugin-node-resolve": "^5.2.0"
   },
   "repository": {
     "type": "git",
