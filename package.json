@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "author": "Wang Zuo <wzuoadjusted@gmail.com> (https://wangzuo.me)",
+  "author": "Wang Zuo <wangzuo@swiftcarrot.com> (https://swiftcarrot.com)",
   "license": "MIT",
   "scripts": {
     "build": "NODE_ENV=production rollup -c",
@@ -23,10 +23,11 @@
     "react-dom": "^16.6.3"
   },
   "devDependencies": {
+    "@babel/core": "^7.7.7",
     "babel-jest": "^24.8.0",
-    "babel-preset-swiftcarrot": "^1.0.0",
+    "babel-preset-swiftcarrot": "^1.1.0",
     "jest": "^24.8.0",
-    "polished": "^3.4.1",
+    "polished": "^3.4.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-test-renderer": "^16.8.6",
