@@ -23,12 +23,14 @@ npm install react-normalize --save
 import React, { Fragment } from 'react';
 import Normalize from 'react-normalize';
 
-const App = ({ children }) => (
-  <Fragment>
-    <Normalize />
-    {children}
-  </Fragment>
-);
+const App = ({ children }) => {
+  return (
+    <Fragment>
+      <Normalize />
+      {children}
+    </Fragment>
+  );
+};
 ```
 
 ### License
